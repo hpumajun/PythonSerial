@@ -3,7 +3,7 @@
 
 # Purpose:     Economic Indoor Autotest Python Script
 #
-# Author:      ronghuihui
+# Author:      junma
 # Created:     2016-07-01
 # Version:     0.1
 # Copyright:   (c) Hikvision.com 2013
